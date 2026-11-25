@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "aquafish",
+  "version": "${version}",
+  "name": "Aquafish",
+  "description": "Аквариум с рыбками из вёдер (лосось, треска, Немо, иглобрюх), корм и анимация кормления.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.aquafish.AquaFish"],
+    "client": ["com.example.aquafish.client.AquaFishClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

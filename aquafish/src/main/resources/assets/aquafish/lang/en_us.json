@@ -1,0 +1,9 @@
+{
+  "block.aquafish.aquarium": "Aquarium",
+  "item.aquafish.fish_food": "Fish Food",
+  "itemGroup.aquafish": "Aquafish",
+  "message.aquafish.full": "The aquarium is full!",
+  "message.aquafish.no_fish": "There are no fish to feed.",
+  "message.aquafish.not_hungry": "The fish are not hungry yet.",
+  "message.aquafish.count": "Fish: %s / %s"
+}

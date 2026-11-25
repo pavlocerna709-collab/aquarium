@@ -1,0 +1,9 @@
+{
+  "block.aquafish.aquarium": "Аквариум",
+  "item.aquafish.fish_food": "Корм для рыбок",
+  "itemGroup.aquafish": "Аквариум и рыбки",
+  "message.aquafish.full": "Аквариум переполнен!",
+  "message.aquafish.no_fish": "Некого кормить.",
+  "message.aquafish.not_hungry": "Рыбки ещё не голодны.",
+  "message.aquafish.count": "Рыбок: %s / %s"
+}
